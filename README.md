@@ -1,5 +1,47 @@
-Project Demo : https://scintillating-smakager-860376.netlify.app/  
+# 📚 E-Learning Platform UI
 
-Project Video : https://www.youtube.com/watch?v=KkQATIXBY5w&ab_channel=GorkCoder
+A modern, responsive, and interactive front-end for an online education platform built using **ReactJS**. This project is designed to showcase online courses, instructors, pricing, and more—ideal for educational startups, coaching centers, or personal learning portfolios.
 
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+---
+
+## 🚀 Features
+
+- ✨ Clean and responsive UI
+- 🎓 Course showcase and categorization
+- 🧑‍🏫 Instructor profiles
+- 💰 Pricing plans
+- 📰 Blog and journal section
+- 📱 Social media integration
+- 📩 Contact form & newsletter
+
+---
+
+## 🛠️ Built With
+
+- **ReactJS**
+- **HTML5 / CSS3**
+- **JavaScript (ES6+)**
+- **Font Awesome** for icons
+- **Custom CSS**
+
+---
+
+## 📸 Screenshots
+
+> Include images or GIFs of your UI here if possible for a better overview!
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/harishbawari14/E-Learning-Platform-UI.git
+   cd E-Learning-Platform-UI
