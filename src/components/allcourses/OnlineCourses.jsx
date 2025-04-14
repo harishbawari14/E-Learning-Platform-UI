@@ -28,3 +28,4 @@ const OnlineCourses = () => {
 }
 
 export default OnlineCourses
+
